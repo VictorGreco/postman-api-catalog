@@ -1,19 +1,3 @@
-<!--
-*** Thanks for checking out this README Template. If you have a suggestion that would
-*** make this better, please fork the repo and create a pull request or simply open
-*** an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** victorgreco, repo_name, twitter_handle, email
--->
-
-
-
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -34,104 +18,68 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/victorgreco/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/victorgreco/postman-api-catalog">
+    <img src="images/logo.svg" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">YOUR_TITLE</h3>
+  <h3 align="center">Postman API Catalog</h3>
 
   <p align="center">
-    YOUR_SHORT_DESCRIPTION
+    Test a sort of cool and useful apis !
     <br />
-    <a href="https://github.com/victorgreco/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/victorgreco/postman-api-catalog"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/victorgreco/repo_name">View Demo</a>
+    <a href="https://github.com/victorgreco/postman-api-catalog">View Demo</a>
     ·
-    <a href="https://github.com/victorgreco/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/victorgreco/postman-api-catalog/issues">Report Bug</a>
     ·
-    <a href="https://github.com/victorgreco/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/victorgreco/postman-api-catalog/issues">Request Feature</a>
   </p>
 </p>
 
-
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`victorgreco`, `repo_name`, `twitter_handle`, `email`
+Open repository to share cool API and how to use it via postman. 
 
+<!-- ACKNOWLEDGEMENTS -->
+## Supported APIs
 
-### Built With
-
-* []()
-* []()
-* []()
-
-
+* [Dummy Rest API](http://dummy.restapiexample.com/)
+* [JSON Place Holder](https://jsonplaceholder.typicode.com/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
-
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
+* [Create account](https://identity.getpostman.com/login)
+
+* I really 💛 the desktop version [download it here](https://www.postman.com/downloads/) ! <br> 
 
 ### Installation
 
-1. Clone the repo
+1. **Clone the postman-api-catalog**
+
 ```sh
-git clone https://github.com/victorgreco/repo_name.git
-```
-2. Install NPM packages
-```sh
-npm install
+git clone https://github.com/victorgreco/postman-api-catalog.git
 ```
 
+2. **Open Postman Desktop version**
 
+3. **Select import**
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<img src="images/import.png">
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+4. **Choose the JSON file you want to import**
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+<img src="images/select_file.png">
 
+2. **You're ready to test APIs !**
 
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/victorgreco/repo_name/issues) for a list of proposed features (and known issues).
-
-
+<img src="images/download.png">
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -143,8 +91,6 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-
 
 <!-- LICENSE -->
 ## License
@@ -158,33 +104,21 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Victor Greco - [linkedin](https://www.linkedin.com/in/victor-greco/) - victorgreco263@gmail.com
 
-Project Link: [https://github.com/victorgreco/repo_name](https://github.com/victorgreco/repo_name)
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* []()
-* []()
-* []()
-
-
-
+Project Link: [https://github.com/victorgreco/postman-api-catalog](https://github.com/victorgreco/postman-api-catalog)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/victorgreco/repo.svg?style=flat-square
-[contributors-url]: https://github.com/victorgreco/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/victorgreco/repo.svg?style=flat-square
-[forks-url]: https://github.com/victorgreco/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/victorgreco/repo.svg?style=flat-square
-[stars-url]: https://github.com/victorgreco/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/victorgreco/repo.svg?style=flat-square
-[issues-url]: https://github.com/victorgreco/repo/issues
-[license-shield]: https://img.shields.io/github/license/victorgreco/repo.svg?style=flat-square
-[license-url]: https://github.com/victorgreco/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/victorgreco/postman-api-catalog.svg?style=flat-square
+[contributors-url]: https://github.com/victorgreco/postman-api-catalog/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/victorgreco/postman-api-catalog.svg?style=flat-square
+[forks-url]: https://github.com/victorgreco/postman-api-catalog/network/members
+[stars-shield]: https://img.shields.io/github/stars/victorgreco/postman-api-catalog.svg?style=flat-square
+[stars-url]: https://github.com/victorgreco/postman-api-catalog/stargazers
+[issues-shield]: https://img.shields.io/github/issues/victorgreco/postman-api-catalog.svg?style=flat-square
+[issues-url]: https://github.com/victorgreco/postman-api-catalog/issues
+[license-shield]: https://img.shields.io/github/license/victorgreco/postman-api-catalog.svg?style=flat-square
+[license-url]: https://github.com/victorgreco/postman-api-catalog/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/victor-greco/
 [product-screenshot]: images/screenshot.png
