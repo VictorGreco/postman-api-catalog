@@ -49,6 +49,8 @@ Open repository to share cool API and how to use it via postman.
 
 * [Dummy Rest API](http://dummy.restapiexample.com/)
 * [JSON Place Holder](https://jsonplaceholder.typicode.com/)
+* [iTunes Store](https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/)
+* [Liferay Country](https://www.liferay.com/api/jsonws/country/get-countries/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
