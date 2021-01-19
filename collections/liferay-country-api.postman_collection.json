@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "8035480b-a000-4128-99f2-e58073c91ec6",
+		"name": "liferay-country-api",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get all countries",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://www.liferay.com/api/jsonws/country/get-countries/",
+					"protocol": "https",
+					"host": [
+						"www",
+						"liferay",
+						"com"
+					],
+					"path": [
+						"api",
+						"jsonws",
+						"country",
+						"get-countries",
+						""
+					]
+				},
+				"description": "Returns an array of countries"
+			},
+			"response": []
+		}
+	]
+}

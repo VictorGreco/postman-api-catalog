@@ -1,7 +1,7 @@
 {
 	"info": {
-		"_postman_id": "b25333f1-d03d-4358-bdbe-2ce21acdd00b",
-		"name": "Dummy Rest API",
+		"_postman_id": "17b73cb8-8cf1-4a52-825e-3e1dbcb9bf71",
+		"name": "dummy-rest-api",
 		"description": "http://dummy.restapiexample.com/",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
